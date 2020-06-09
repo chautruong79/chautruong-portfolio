@@ -53,7 +53,7 @@ header .banner {
   display: inline-block;
   vertical-align: middle;
   margin: 0 auto;
-  width: 85%;
+  width: 70%;
   padding-bottom: 30px;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.6);
@@ -64,7 +64,7 @@ header .banner-text {
   width: 100%;
 }
 header .banner-text h1 {
-  font: 90px/1.1em "opensans-bold", sans-serif;
+  font: 75px/1.1em "opensans-bold", sans-serif;
   color: rgb(107, 218, 228);
   letter-spacing: -2px;
   margin: 0 auto 18px auto;

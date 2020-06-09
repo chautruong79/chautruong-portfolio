@@ -60,7 +60,7 @@ class Header extends Component {
           <div className="banner-text">
             <h1 className="">Hi,</h1>
 
-            <h1 className="responsive-headline">I'm {name}.</h1>
+            <h1 className="">I'm {name}.</h1>
             <h3>
               I'm an aspiring <span>{occupation}</span>. {description}.
             </h3>
