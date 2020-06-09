@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name": "Chau Truong",
+    "occupation": "Software Developer",
+    "description": "I am dedicated to perfecting my craft by learning from others, remaining humble, and continuously improving my skills in web development. I’ve always had a sense of motivation and passion driving me forward.",
+    "image": "profilepic.jpg",
+    "bio": "As a Full Stack developer with strong preference to the back-end, I'm always looking for an opportunity to prove my skills and my ability. Before becoming a developer, I've always been excited about acquiring new skills and information, making things existing better for others and solving logic-problems. Whether it’s exploring unique opportunities, learning additional skills, or meeting new people, I bring these values to every experience throughout my life on a personal and professional level.",
+    "contactmessage": "If you have any opportunities, questions about my work, or just want to get to know more about me, here is the place!",
+    "email": "chau.truong79@yahoo.com",
+    "phone": "407-401-0626",
+    "address": {
+      "city": "Clovis",
+      "state": "New Mexico",
+      "zip": "88101"
+    },
+    "website": "https://chau-truong.netlify.app/",
+    "resumedownload": "https://chau-truong.netlify.app/",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "www.linkedin.com/in/chautruong79",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/chautruong79",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Treehouse Techdegree",
+        "degree": "Full Stack JavaScript Development",
+        "graduated": "July 2020",
+        "description": "Programming fundamentals and software development best practices. Creating responsive and interactive web pages. Object-oriented programming techniques. Debugging techniques. Server-side programming with Node.js, npm and the Express framework. Retrieving, storing and updating databases using SQL. Creating REST APIs to provide information and services. Using the React front end framework to build complex user interfaces."
+      },
+      {
+        "school": "West Texas A&M University",
+        "degree": "Biochemistry - Mathematics minor",
+        "graduated": "May 2017",
+        "description": "Calculus I, Calculus II and Calculus III used in various applied computer sciences. Statistic application in programming."
+      }
+    ],
+    "work": [
+      {
+        "title": "JavaScript Developer",
+        "years": "May 2020 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "USA Nails Inc.",
+        "title": "Cosmetologist",
+        "years": "November 2017 - Present",
+        "description": "Delivered exceptional customer service to all guests, building relationships with steady stable of 100+ loyal clients. Maintained 98% positive customer comments average for 2 years. Mastered the company’s full range of beauty products and services."
+      },
+      {
+        "company": "WTAMU - Math Department",
+        "title": "Mathematics Grader",
+        "years": "August 2014 - August 2016",
+        "description": "Graded homework assignments and tests, computed and recorded results. Ensured software was installed properly on all computers in the Math lab. Received 90%+ positive feedback from students and professors."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Face Detection App",
+        "category": "A facial image recognition website that reads an image URL given by the user.",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://chautruong79.github.io/faceDetection/",
+        "content": "MERN stack. Session management with authenticator routes. Hashed passwords securely in MongoDB. Using Redis for session management and caching. \nFace models will detect the presence and location of human faces in pictures. Celebrity Detection will identify celebrities that closely resemble detected faces in pictures. Demographics models will predict the age, gender, and culture appearance of detected faces in pictures."
+      },
+      {
+        "title": "Assignment Tracker",
+        "category": "An app to help users stay organized, keep track of things like assignments, due dates, and tests.",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com",
+        "content": "Frontend with React.js, backend including a RESTful API server with Express. Using MongoDB. Users can register and sign in. This app helps users stay organized, keep track of things like assignments, due dates, and tests. Users can save that assignments or delete assignments when they are done with those."
+      },
+
+      {
+        "title": "Resume Website",
+        "category": "A React based website",
+        "image": "resume-website.jpg",
+        "url": "https://chau-truong.netlify.app/",
+        "content": "ReactJS based personal resume website."
+      }
+    ]
+  }
+}
