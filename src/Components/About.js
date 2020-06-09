@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Logo from "./Logo";
 
 class About extends Component {
   render() {
@@ -18,11 +19,7 @@ class About extends Component {
       <section id="about">
         <div className="row">
           <div className="three columns">
-            <img
-              className="profile-pic"
-              src={profilepic}
-              alt="Tim Baker Profile Pic"
-            />
+            <Logo image={profilepic} />
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
@@ -41,7 +38,7 @@ class About extends Component {
                   <span>{phone}</span>
                   <br />
                   <span>
-                    <a href="mailto:chau.truong79@yahoo.com">{email}</a>
+                    <a href="mailto:chau.truong.jo@gmail.com">{email}</a>
                   </span>
                 </p>
               </div>
