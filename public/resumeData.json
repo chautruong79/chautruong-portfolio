@@ -111,6 +111,13 @@
         "image": "portfolio.png",
         "url": "https://chau-truong.netlify.app/",
         "content": "ReactJS based personal resume website."
+      },
+      {
+        "title": "RoboFriends",
+        "category": "A React based website",
+        "image": "portfolio.png",
+        "url": "https://chau-truong.netlify.app/",
+        "content": "ReactJS based personal resume website."
       }
     ]
   }
