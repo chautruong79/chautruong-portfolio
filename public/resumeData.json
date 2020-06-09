@@ -61,7 +61,7 @@
         "title": "Front-End Developer",
         "years": "May 2020 - Present",
         "descriptions": [
-          "Developed a landing website for nonprofit group using HTML, CSS, and JavaScript.",
+          "Developed a landing website using HTML, CSS, and JavaScript.",
           "Created the User Interface of applications using HTML5, CSS3, JavaScript, and React.",
           "Developed and delivered my full-portfolio hosted on GitHub."
         ]
@@ -108,7 +108,7 @@
       {
         "title": "Resume Website",
         "category": "A React based website",
-        "image": "resume-website.jpg",
+        "image": "portfolio.png",
         "url": "https://chau-truong.netlify.app/",
         "content": "ReactJS based personal resume website."
       }

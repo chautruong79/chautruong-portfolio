@@ -94,6 +94,7 @@ header .social {
   padding: 0;
   font-size: 30px;
   text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.8);
+  position: relative;
 }
 header .social li {
   display: inline-block;
@@ -1119,4 +1120,26 @@ footer .social-links li:first-child {
 }
 #go-top a:hover {
   background-color: #0f9095;
+}
+.border {
+  border: 2px outset #78bdeb;
+  background-color: #4897cc;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  opacity: 0.8;
+  color: black;
+}
+.sk {
+  font-weight: bold;
+  text-shadow: 2px 2px 8px #1b6fcf;
+}
+.particles {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 0;
 }

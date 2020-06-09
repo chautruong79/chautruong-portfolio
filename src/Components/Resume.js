@@ -77,24 +77,42 @@ class Resume extends Component {
             <div className="row skill">
               <ul className="skills">
                 <li>
-                  <span>Programming: </span>
-                  <em>Javascript, Node.Js, Ruby, C/C++ </em>
+                  <span className="sk">Programming: </span>
+                  <em className="border">Javascript</em>
+                  {"  "}
+                  <em className="border">Node.Js</em>
+                  {"  "}
+                  <em className="border">Ruby</em>
+                  {"  "}
+                  <em className="border">C/C++</em>
                 </li>
                 <li>
-                  <span>Web – Frontend: </span>
-                  <em>React, Redux, Webpack, HTML5, CSS3</em>
+                  <span className="sk">Web – Frontend: </span>
+                  <em className="border">React</em>
+                  {"  "}
+                  <em className="border">Redux</em>
+                  {"  "}
+                  <em className="border">Webpack</em>
+                  {"  "}
+                  <em className="border">HTML5</em>
+                  {"  "}
+                  <em className="border">CSS3</em>
                 </li>
                 <li>
-                  <span>Web – Backend: </span>
-                  <em>Express with Node.JS</em>
+                  <span className="sk">Web – Backend: </span>
+                  <em className="border">Express with Node.JS</em>
                 </li>
                 <li>
-                  <span>Database: </span>
-                  <em>Postgres, MongoDB </em>
+                  <span className="sk">Database: </span>
+                  <em className="border">Postgres</em>
+                  {"  "}
+                  <em className="border">MongoDB</em>
                 </li>
                 <li>
-                  <span>Languages: </span>
-                  <em>English, Vietnamese</em>
+                  <span className="sk">Languages: </span>
+                  <em className="border">English</em>
+                  {"  "}
+                  <em className="border">Vietnamese</em>
                 </li>
               </ul>
             </div>
