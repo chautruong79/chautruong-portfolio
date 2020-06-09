@@ -114,10 +114,10 @@
       },
       {
         "title": "RoboFriends",
-        "category": "A React based website",
-        "image": "portfolio.png",
-        "url": "https://chau-truong.netlify.app/",
-        "content": "ReactJS based personal resume website."
+        "category": "A ReactJS web application",
+        "image": "robofriends.png",
+        "url": "https://chautruong79.github.io/my-robofriends/",
+        "content": "Applied Card UI with different users information in card form. Search dynamically through cards by name of users."
       }
     ]
   }
