@@ -1127,13 +1127,18 @@ footer .social-links li:first-child {
   border-radius: 10px;
   padding: 5px;
   margin: 5px;
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  opacity: 0.8;
+  box-shadow: 0 0 11px rgba(33, 33, 33, 0.2);
+
+  opacity: 0.7;
   color: black;
+}
+.border:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transform: scale(1.5);
 }
 .sk {
   font-weight: bold;
-  text-shadow: 2px 2px 8px #1b6fcf;
+  text-shadow: 2px 2px 5px #1b6fcf;
 }
 .particles {
   position: fixed;
