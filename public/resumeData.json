@@ -2,7 +2,7 @@
   "main": {
     "name": "Chau Truong",
     "occupation": "Software Developer",
-    "description": "I am dedicated to perfecting my craft by learning from others, remaining humble, and continuously improving my skills in web development. I’ve always had a sense of motivation and passion driving me forward.",
+    "description": "I am dedicated to perfecting my craft by learning from others, remaining humble, and continuously improving my skills in web development. I’ve always had a sense of motivation and passion driving me forward",
     "image": "profilepic.jpg",
     "bio": "As a Full Stack developer with strong preference to the back-end, I'm always looking for an opportunity to prove my skills and my ability. Before becoming a developer, I've always been excited about acquiring new skills and information, making things existing better for others and solving logic-problems. Whether it’s exploring unique opportunities, learning additional skills, or meeting new people, I bring these values to every experience throughout my life on a personal and professional level.",
     "contactmessage": "If you have any opportunities, questions about my work, or just want to get to know more about me, here is the place!",
@@ -18,7 +18,7 @@
     "social": [
       {
         "name": "linkedin",
-        "url": "www.linkedin.com/in/chautruong79",
+        "url": "https://www.linkedin.com/in/chautruong79/",
         "className": "fa fa-linkedin"
       },
       {
@@ -99,7 +99,7 @@
       {
         "title": "Face Detection App",
         "category": "A facial image recognition website that reads an image URL given by the user.",
-        "image": "canadian-wanderlust.jpg",
+        "image": "face-detection.png",
         "url": "https://chautruong79.github.io/faceDetection/",
         "content": "MERN stack. Session management with authenticator routes. Hashed passwords securely in MongoDB. Using Redis for session management and caching. \nFace models will detect the presence and location of human faces in pictures. Celebrity Detection will identify celebrities that closely resemble detected faces in pictures. Demographics models will predict the age, gender, and culture appearance of detected faces in pictures."
       },
