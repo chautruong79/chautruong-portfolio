@@ -35,32 +35,56 @@
         "school": "Treehouse Techdegree",
         "degree": "Full Stack JavaScript Development",
         "graduated": "July 2020",
-        "description": "Programming fundamentals and software development best practices. Creating responsive and interactive web pages. Object-oriented programming techniques. Debugging techniques. Server-side programming with Node.js, npm and the Express framework. Retrieving, storing and updating databases using SQL. Creating REST APIs to provide information and services. Using the React front end framework to build complex user interfaces."
+        "descriptions": [
+          "Programming fundamentals and software development best practices.",
+          "Creating responsive and interactive web pages.",
+          "Object-oriented programming techniques.",
+          "Debugging techniques.",
+          "Server-side programming with Node.js, npm and the Express framework.",
+          "Retrieving, storing and updating databases using SQL.",
+          "Creating REST APIs to provide information and services.",
+          "Using the React front end framework to build complex user interfaces."
+        ]
       },
       {
         "school": "West Texas A&M University",
         "degree": "Biochemistry - Mathematics minor",
         "graduated": "May 2017",
-        "description": "Calculus I, Calculus II and Calculus III used in various applied computer sciences. Statistic application in programming."
+        "descriptions": [
+          "Calculus I, Calculus II and Calculus III used in various applied computer sciences.",
+          "Statistic applications in programming."
+        ]
       }
     ],
     "work": [
       {
-        "title": "JavaScript Developer",
+        "title": "Front-End Developer",
         "years": "May 2020 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "descriptions": [
+          "Developed a landing website for nonprofit group using HTML, CSS, and JavaScript.",
+          "Created the User Interface of applications using HTML5, CSS3, JavaScript, and React.",
+          "Developed and delivered my full-portfolio hosted on GitHub."
+        ]
       },
       {
         "company": "USA Nails Inc.",
         "title": "Cosmetologist",
         "years": "November 2017 - Present",
-        "description": "Delivered exceptional customer service to all guests, building relationships with steady stable of 100+ loyal clients. Maintained 98% positive customer comments average for 2 years. Mastered the company’s full range of beauty products and services."
+        "descriptions": [
+          "Delivered exceptional customer service to all guests, building relationships with steady stable of 100+ loyal clients.",
+          "Maintained 98% positive customer comments average for 2 years.",
+          "Mastered the company’s full range of beauty products and services."
+        ]
       },
       {
         "company": "WTAMU - Math Department",
         "title": "Mathematics Grader",
         "years": "August 2014 - August 2016",
-        "description": "Graded homework assignments and tests, computed and recorded results. Ensured software was installed properly on all computers in the Math lab. Received 90%+ positive feedback from students and professors."
+        "descriptions": [
+          "Graded homework assignments and tests, computed and recorded results.",
+          "Ensured software was installed properly on all computers in the Math lab.",
+          "Received 90%+ positive feedback from students and professors."
+        ]
       }
     ]
   },

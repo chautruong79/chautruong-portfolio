@@ -12,7 +12,11 @@ class Resume extends Component {
               {education.degree} <span>&bull;</span>
               <em className="date">{education.graduated}</em>
             </p>
-            <p>{education.description}</p>
+            <ul>
+              {education.descriptions.map((des) => {
+                return <li>{des}</li>;
+              })}
+            </ul>
           </div>
         );
       });
@@ -24,7 +28,11 @@ class Resume extends Component {
               {work.title}
               <span>&bull;</span> <em className="date">{work.years}</em>
             </p>
-            <p>{work.description}</p>
+            <ul>
+              {work.descriptions.map((des) => {
+                return <li>{des}</li>;
+              })}
+            </ul>
           </div>
         );
       });
