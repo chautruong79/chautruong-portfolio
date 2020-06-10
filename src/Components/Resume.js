@@ -75,44 +75,54 @@ class Resume extends Component {
             <p>{skillmessage}</p>
 
             <div className="row skill">
-              <ul className="skills">
+              <ul className="skills columns">
                 <li>
                   <span className="sk">Programming: </span>
-                  <em className="border">Javascript</em>
-                  {"  "}
-                  <em className="border">Node.Js</em>
-                  {"  "}
-                  <em className="border">Ruby</em>
-                  {"  "}
-                  <em className="border">C/C++</em>
+                  <div className="ski">
+                    <em className="border">Javascript</em>
+                    {"  "}
+                    <em className="border">Node.Js</em>
+                    {"  "}
+                    <em className="border">Ruby</em>
+                    {"  "}
+                    <em className="border">C/C++</em>
+                  </div>
                 </li>
                 <li>
                   <span className="sk">Web – Frontend: </span>
-                  <em className="border">React</em>
-                  {"  "}
-                  <em className="border">Redux</em>
-                  {"  "}
-                  <em className="border">Webpack</em>
-                  {"  "}
-                  <em className="border">HTML5</em>
-                  {"  "}
-                  <em className="border">CSS3</em>
+                  <div className="ski">
+                    <em className="border">React</em>
+                    {"  "}
+                    <em className="border">Redux</em>
+                    {"  "}
+                    <em className="border">Webpack</em>
+                    {"  "}
+                    <em className="border">HTML5</em>
+                    {"  "}
+                    <em className="border">CSS3</em>
+                  </div>
                 </li>
                 <li>
                   <span className="sk">Web – Backend: </span>
-                  <em className="border">Express with Node.JS</em>
+                  <div className="ski">
+                    <em className="border">Express/Node.JS</em>
+                  </div>
                 </li>
                 <li>
                   <span className="sk">Database: </span>
-                  <em className="border">Postgres</em>
-                  {"  "}
-                  <em className="border">MongoDB</em>
+                  <div className="ski">
+                    <em className="border">Postgres</em>
+                    {"  "}
+                    <em className="border">MongoDB</em>
+                  </div>
                 </li>
                 <li>
                   <span className="sk">Languages: </span>
-                  <em className="border">English</em>
-                  {"  "}
-                  <em className="border">Vietnamese</em>
+                  <div className="ski">
+                    <em className="border">English</em>
+                    {"  "}
+                    <em className="border">Vietnamese</em>
+                  </div>
                 </li>
               </ul>
             </div>
