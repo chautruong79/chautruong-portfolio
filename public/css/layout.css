@@ -1139,7 +1139,7 @@ footer .social-links li:first-child {
 }
 .sk {
   font-weight: bold;
-  text-shadow: 1px 1px 1px #1b6fcf;
+  color: black;
 }
 .particles {
   position: fixed;
