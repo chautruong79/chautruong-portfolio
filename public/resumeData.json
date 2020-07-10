@@ -13,8 +13,8 @@
       "state": "New Mexico",
       "zip": "88101"
     },
-    "website": "https://chau-truong.netlify.app/",
-    "resumedownload": "https://chau-truong.netlify.app/",
+    "website": "https://chautruong.netlify.app/",
+    "resumedownload": "https://drive.google.com/file/d/1g13anpJP5G3_lTiV9yz6eQXg4u9M_WyL/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -76,11 +76,36 @@
           "Ensured software was installed properly on all computers in the Math lab.",
           "Received 90%+ positive feedback from students and professors."
         ]
+      },
+      {
+        "company": "Aramark Corporation",
+        "title": "Caterer",
+        "years": "February 2014 - August 2014",
+        "descriptions": [
+          "Led team of 3 to 5 to serve customers in a positive way.",
+          "Scheduled, organized, planned and set up various catering events.",
+          "Effectively communicated and collaborated with team members to ensure a successful outcome of the catered event.",
+          "Communicated with customers regarding orders, comments, and complaints and promptly solved 90% of their concerns."
+        ]
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "SkiNet E-Commerce App",
+        "category": "A proof of concept e-commerce store using Angular, .Net Core and Stripe for payment processing.",
+        "image": "",
+        "url": "",
+        "content": "An e-commerce store using Angular, .Net Core and Stripe for payment processing."
+      },
+      {
+        "title": "Employee Leave Management System",
+        "category": "A fully data driven web application using ASP.Net Core 3.1, Entity Framework, Code-First and the Repository and MVC Patterns.",
+        "image": "",
+        "url": "",
+        "content": "A fully data driven web application using ASP.Net Core 3.1, Entity Framework, Code-First and the Repository and MVC Patterns."
+      },
       {
         "title": "Face Detection App",
         "category": "A facial image recognition website that reads an image URL given by the user.",
@@ -91,7 +116,7 @@
       {
         "title": "Assignment Tracker",
         "category": "An app to help users stay organized, keep track of things like assignments, due dates, and tests.",
-        "image": "fury-fighting-gear.jpg",
+        "image": "",
         "url": "",
         "content": "MERN stack, including a RESTful API server. Users can register and sign in. This app helps users stay organized, keep track of things like assignments, due dates, and tests. Users can save assignments or delete assignments."
       },

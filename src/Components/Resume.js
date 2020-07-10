@@ -77,6 +77,8 @@ class Resume extends Component {
                 <li>
                   <span className="sk">Programming: </span>
                   <div className="ski">
+                    <em className="border">C#</em>
+                    {"  "}
                     <em className="border">Javascript</em>
                     {"  "}
                     <em className="border">Node.Js</em>
@@ -91,7 +93,7 @@ class Resume extends Component {
                   <div className="ski">
                     <em className="border">React</em>
                     {"  "}
-                    <em className="border">Redux</em>
+                    <em className="border">Angular</em>
                     {"  "}
                     <em className="border">Webpack</em>
                     {"  "}
@@ -104,12 +106,16 @@ class Resume extends Component {
                   <span className="sk">Web – Backend: </span>
                   <div className="ski">
                     <em className="border">Express/Node.JS</em>
+                    {"  "}
+                    <em className="border">ASP.Net Core</em>
                   </div>
                 </li>
                 <li>
                   <span className="sk">Database: </span>
                   <div className="ski">
                     <em className="border">Postgres</em>
+                    {"  "}
+                    <em className="border">SQL</em>
                     {"  "}
                     <em className="border">MongoDB</em>
                   </div>
