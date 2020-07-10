@@ -107,11 +107,18 @@
         "content": "A fully data driven web application using ASP.Net Core 3.1, Entity Framework, Code-First and the Repository and MVC Patterns."
       },
       {
+        "title": "Resume Website",
+        "category": "A React based website",
+        "image": "portfolio.png",
+        "url": "https://chau-truong.netlify.app/",
+        "content": "ReactJS based personal resume website."
+      },
+      {
         "title": "Face Detection App",
         "category": "A facial image recognition website that reads an image URL given by the user.",
         "image": "face-detection.png",
         "url": "https://chautruong79.github.io/faceDetection/",
-        "content": "MERN stack. Session management with authenticator routes. Hashed passwords securely. Redis for session management and caching. Detect human faces in pictures. Identify celebrities. Predict the age, gender, and culture appearance."
+        "content": "MERN stack. Session management with authenticator routes. Detect human faces in pictures. Identify celebrities. Predict the age, gender, and culture appearance."
       },
       {
         "title": "Assignment Tracker",
@@ -121,13 +128,6 @@
         "content": "MERN stack, including a RESTful API server. Users can register and sign in. This app helps users stay organized, keep track of things like assignments, due dates, and tests. Users can save assignments or delete assignments."
       },
 
-      {
-        "title": "Resume Website",
-        "category": "A React based website",
-        "image": "portfolio.png",
-        "url": "https://chau-truong.netlify.app/",
-        "content": "ReactJS based personal resume website."
-      },
       {
         "title": "RoboFriends",
         "category": "A ReactJS web application",
