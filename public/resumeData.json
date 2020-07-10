@@ -66,16 +66,7 @@
           "Developed and delivered my full-portfolio hosted on GitHub."
         ]
       },
-      {
-        "company": "USA Nails Inc.",
-        "title": "Cosmetologist",
-        "years": "November 2017 - Present",
-        "descriptions": [
-          "Delivered exceptional customer service to all guests, building relationships with steady stable of 100+ loyal clients.",
-          "Maintained 98% positive customer comments average for 2 years.",
-          "Mastered the company’s full range of beauty products and services."
-        ]
-      },
+
       {
         "company": "WTAMU - Math Department",
         "title": "Mathematics Grader",
@@ -101,7 +92,7 @@
         "title": "Assignment Tracker",
         "category": "An app to help users stay organized, keep track of things like assignments, due dates, and tests.",
         "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com",
+        "url": "",
         "content": "MERN stack, including a RESTful API server. Users can register and sign in. This app helps users stay organized, keep track of things like assignments, due dates, and tests. Users can save assignments or delete assignments."
       },
 

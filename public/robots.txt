@@ -1,3 +1,13 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+// {
+      //   "company": "USA Nails Inc.",
+      //   "title": "Cosmetologist",
+      //   "years": "November 2017 - Present",
+      //   "descriptions": [
+      //     "Delivered exceptional customer service to all guests, building relationships with steady stable of 100+ loyal clients.",
+      //     "Maintained 98% positive customer comments average for 2 years.",
+      //     "Mastered the company’s full range of beauty products and services."
+      //   ]
+      // },
